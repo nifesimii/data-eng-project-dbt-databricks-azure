@@ -7,6 +7,7 @@ In this project, i  setup an end to end data engineering using Apache Spark, Azu
 
 
 ## ADF-Pipeline-Architecture
+![Adf Pipeline Arcitecture.png](ADF-Pipeline-Architecture.png)
 
 
 ## Commands
@@ -18,7 +19,6 @@ Try running the following commands:
 - dbt docs serve # for documentation preview
 Welcome to your new dbt project!
 
-### Using the starter project
 
 Try running the following commands:
 - dbt run
